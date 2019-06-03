@@ -87,7 +87,7 @@ To this end, we develop IoT Inspector, an open-source tool that helps consumers 
 
 [Paper PDF](static/oakland-18.pdf) |
 [Video](https://www.youtube.com/watch?v=H5bPmzsVLF8) |
-[Data](/ransomware-public-data/) |
+[Data](ransomware-public-data/) |
 [Slides](static/oakland-18-slides.pdf) |
 [Summary](https://blog.acolyer.org/2018/03/23/tracking-ransomware-end-to-end/)
 

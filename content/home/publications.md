@@ -170,7 +170,7 @@ First academic study that measures how malicious actors like botnets monetize co
 #### Estimating Profitability of Alternative Crypto-currencies (Altcoins)
 
 [Short Paper PDF](http://fc18.ifca.ai/preproceedings/12.pdf) |
-[Detailed Tech Report PDF](/altcoin-report/) |
+[Detailed Tech Report PDF](altcoin-report/) |
 [Slides](static/fc18-talk.pdf) |
 [Talk Video](https://www.youtube.com/watch?v=OSXne5pDg3A)
 <br />
@@ -186,7 +186,7 @@ Estimates and compares the profitability of miners and speculators across many t
 #### Stressing Out: Bitcoin "Stress Testing"
 
 [Paper PDF](http://fc16.ifca.ai/bitcoin/papers/BHMW16.pdf) |
-[Slides](http://www.cs.princeton.edu/~yuxinghstatic/stress-slides.pdf)
+[Slides](static/stress-slides.pdf)
 
 Identifies clusters of spam transactions on the Bitcoin blockchain and measures their impact on the performance of Bitcoin.
 
