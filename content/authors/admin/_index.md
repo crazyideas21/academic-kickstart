@@ -64,11 +64,11 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a computer science researcher at Princeton University.
+I am a computer science researcher at Princeton's [Department of Computer Science](https://www.cs.princeton.edu/) and [Center for Information Technology Policy](https://citp.princeton.edu/).
 
 I study how emerging technologies, such as cryptocurrency and smart home IoT devices, can cause harm to many users. I also develop novel methods and tools to measure this harm and protect the users at scale.
 
 Impact:
 
  - Helped law enforcement agencies identify criminals by tracing the flow of cryptocurrencies.
- - Helped 3,000+ conumsers discover possible security and privacy issues on 30,000+ smart home devices by releasing an open-source tool, [IoT Inspector](https://iot-inspector.princeton.edu/). See [TechCrunch](https://techcrunch.com/2019/04/13/spy-on-your-smart-home-with-this-open-source-research-tool/) and [Gizmodo](https://gizmodo.com/this-simple-tool-will-reveal-the-secret-life-of-your-sm-1832264323).
+ - Helped 3,000+ consumers discover possible security and privacy issues on 30,000+ smart home devices by releasing an open-source tool, [IoT Inspector](https://iot-inspector.princeton.edu/). See [TechCrunch](https://techcrunch.com/2019/04/13/spy-on-your-smart-home-with-this-open-source-research-tool/) and [Gizmodo](https://gizmodo.com/this-simple-tool-will-reveal-the-secret-life-of-your-sm-1832264323).

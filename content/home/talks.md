@@ -77,7 +77,7 @@ Speaker and panelist for the Government-University-Industry Research Roundtable:
 [<i class="far fa-calendar-alt"></i> Agenda](https://sites.nationalacademies.org/PGA/guirr/PGA_191387)
 
 
-#### Williams College - Computer Science Colloqium
+#### Williams College - Computer Science Colloquium
 
 Speaker. "Tracking Bitcoins in Criminal Operations." October 26, 2018.
 <br />
@@ -85,7 +85,7 @@ Speaker. "Tracking Bitcoins in Criminal Operations." October 26, 2018.
 
 
 
-#### Stanford Security Seminar
+#### Stanford University - Security Seminar
 
 Speaker. "Tracking Bitcoins in Criminal Operations." April 5, 2018.
 <br />
@@ -94,6 +94,13 @@ Speaker. "Tracking Bitcoins in Criminal Operations." April 5, 2018.
 
 #### Yale University - Dept of Sociology
 
-Guest lecturuer for SOCY 321: Markets and Society. "How and Why Criminals Use Bitcoin." March 27, 2018.
+Guest lecturer for SOCY 321: Markets and Society. "How and Why Criminals Use Bitcoin." March 27, 2018.
 <br />
 [<i class="fas fa-desktop"></i> Slides](https://docs.google.com/presentation/d/1KZPybiI9x4CA-MmO_dsOCQXVDZ5VY5D-ReRnQpUglRU/edit#slide=id.g35e71de504_0_0)
+
+
+#### Uber - Guest Tech Talk
+
+Speaker. "Pinning Down Abuse on Google Maps." July 5, 2017.
+<br />
+[<i class="fas fa-desktop"></i> Slides](https://docs.google.com/presentation/d/1dwanfOMwnPv04DkYKEl-UnfR2jmoHGTXUsH3sG7tnFw/edit#slide=id.p)

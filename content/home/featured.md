@@ -85,10 +85,10 @@ To this end, we develop IoT Inspector, an open-source tool that helps consumers 
 
 ### Tracking Ransomware End-to-End
 
-[Paper PDF](https://www.cs.princeton.edu/~yuxingh/static/oakland-18.pdf) |
+[Paper PDF](static/oakland-18.pdf) |
 [Video](https://www.youtube.com/watch?v=H5bPmzsVLF8) |
-[Data](https://www.cs.princeton.edu/~yuxingh/ransomware-public-data/) |
-[Slides](https://www.cs.princeton.edu/~yuxingh/static/oakland-18-slides.pdf) |
+[Data](/ransomware-public-data/) |
+[Slides](static/oakland-18-slides.pdf) |
 [Summary](https://blog.acolyer.org/2018/03/23/tracking-ransomware-end-to-end/)
 
 Ransomware has caused millions of dollars of damage. For ransomware that demands payment in Bitcoin, we trace the flow of bitcoins to measure the revenue of 10 ransomware operations, identify the exchanges used for liquidation, and analyze the distribution of victims.
@@ -108,9 +108,9 @@ Ransomware has caused millions of dollars of damage. For ransomware that demands
 
 ### Backpage and Bitcoin: Uncovering Human Traffickers
 
-[Paper PDF](https://www.cs.princeton.edu/~yuxingh/static/kdd17-backpage.pdf) |
+[Paper PDF](static/kdd17-backpage.pdf) |
 [Summary](https://engineering.nyu.edu/news/follow-bitcoin-find-victims-human-trafficking) |
-[Code](https://www.cs.princeton.edu/~yuxingh/static/backpage_public_code.ipynb)
+[Code](static/backpage_public_code.ipynb)
 
 Bitcoin is not completely anonymous. Taking advantage of this property, we describe a method to help law enforcement agencies narrow down their search for human traffickers by analyzing the Bitcoin blockchain.
 

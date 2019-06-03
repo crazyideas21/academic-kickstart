@@ -73,7 +73,7 @@ subtitle = ""
 
 #### Keeping the Smart Home Private with Smart(er) IoT Traffic Shaping
 
-[Paper PDF](https://www.cs.princeton.edu/~yuxingh/static/pets-2019.pdf)
+[Paper PDF](static/pets-2019.pdf)
 
 Prevents ISPs from inferring your daily activities by masking the smart home traffic.
 
@@ -115,10 +115,10 @@ Describes and evaluates a fast method to discover and control smart home devices
 
 #### Tracking Ransomware End-to-End
 
-[Paper PDF](https://www.cs.princeton.edu/~yuxingh/static/oakland-18.pdf) |
+[Paper PDF](static/oakland-18.pdf) |
 [Video](https://www.youtube.com/watch?v=H5bPmzsVLF8) |
-[Data](https://www.cs.princeton.edu/~yuxingh/ransomware-public-data/) |
-[Slides](https://www.cs.princeton.edu/~yuxingh/static/oakland-18-slides.pdf) |
+[Data](/ransomware-public-data/) |
+[Slides](static/oakland-18-slides.pdf) |
 [Summary](https://blog.acolyer.org/2018/03/23/tracking-ransomware-end-to-end/)
 <br />
 Media: [BBC](https://www.bbc.com/news/technology-40737060) |
@@ -135,9 +135,9 @@ Analyzes financial operations of ransomware by developing new techniques to trac
 
 Helps law enforcement narrow down their search for human traffickers by analyzing the Bitcoin blockchain.
 
-[Paper PDF](https://www.cs.princeton.edu/~yuxingh/static/kdd17-backpage.pdf) |
+[Paper PDF](static/kdd17-backpage.pdf) |
 [Summary](https://engineering.nyu.edu/news/follow-bitcoin-find-victims-human-trafficking) |
-[Code](https://www.cs.princeton.edu/~yuxingh/static/backpage_public_code.ipynb)
+[Code](static/backpage_public_code.ipynb)
 <br />
 Media: [Reuters](https://www.reuters.com/article/us-usa-trafficking-ads-idUSKCN1AX2RD) |
 [Fortune](http://fortune.com/2017/08/25/bitcoin-ai-sex-trafficking/) |
@@ -153,9 +153,9 @@ Media: [Reuters](https://www.reuters.com/article/us-usa-trafficking-ads-idUSKCN1
 
 #### Botcoin: Monetizing Stolen Cycles
 
-[Paper PDF](https://www.cs.princeton.edu/~yuxingh/static/ndss14-cr.pdf) |
-[Slides](https://www.cs.princeton.edu/~yuxingh/static/ndss-14-talk.pptx) |
-[Poster](https://www.cs.princeton.edu/~yuxingh/static/botcoin-poster-csaw-14.png)
+[Paper PDF](static/ndss14-cr.pdf) |
+[Slides](static/ndss-14-talk.pptx) |
+[Poster](static/botcoin-poster-csaw-14.png)
 <br />
 Media: [National Public Radio](http://www.kpbs.org/news/2014/feb/28/why-bitcoin-schemers-have-been-hijacking-personal-/) |
 [Reuters](http://www.reuters.com/article/2014/03/14/bitcoin-criminals-idUSL3N0MA0TZ20140314)
@@ -170,8 +170,8 @@ First academic study that measures how malicious actors like botnets monetize co
 #### Estimating Profitability of Alternative Crypto-currencies (Altcoins)
 
 [Short Paper PDF](http://fc18.ifca.ai/preproceedings/12.pdf) |
-[Detailed Tech Report PDF](https://www.cs.princeton.edu/~yuxingh/altcoin-report/) |
-[Slides](https://www.cs.princeton.edu/~yuxingh/static/fc18-talk.pdf) |
+[Detailed Tech Report PDF](/altcoin-report/) |
+[Slides](static/fc18-talk.pdf) |
 [Talk Video](https://www.youtube.com/watch?v=OSXne5pDg3A)
 <br />
 Media: [Inc.com](https://www.inc.com/eric-mack/science-shows-its-better-to-mine-cryptocurrencies-than-speculate-on-them.html)
@@ -186,7 +186,7 @@ Estimates and compares the profitability of miners and speculators across many t
 #### Stressing Out: Bitcoin "Stress Testing"
 
 [Paper PDF](http://fc16.ifca.ai/bitcoin/papers/BHMW16.pdf) |
-[Slides](http://www.cs.princeton.edu/~yuxingh/static/stress-slides.pdf)
+[Slides](http://www.cs.princeton.edu/~yuxinghstatic/stress-slides.pdf)
 
 Identifies clusters of spam transactions on the Bitcoin blockchain and measures their impact on the performance of Bitcoin.
 
@@ -197,9 +197,9 @@ Identifies clusters of spam transactions on the Bitcoin blockchain and measures 
 
 #### PhD Dissertation
 
-[Paper PDF](/static/phd.pdf)
+[Paper PDF](static/phd.pdf)
 
-Uses cryptocurrencies to measure financial activities of malcious actors and to uncover potential identities of these actors. Advisors: [Alex C. Snoeren](http://cseweb.ucsd.edu/~snoeren/) and [Kirill Levchenko](http://klevchen.ece.illinois.edu/).
+Uses cryptocurrencies to measure financial activities of malicious actors and to uncover potential identities of these actors. Advisors: [Alex C. Snoeren](http://cseweb.ucsd.edu/~snoeren/) and [Kirill Levchenko](http://klevchen.ece.illinois.edu/).
 
 
 <br />
@@ -212,8 +212,8 @@ Uses cryptocurrencies to measure financial activities of malcious actors and to 
 
 #### Pinning Down Abuse on Google Maps
 
-[Paper PDF](https://www.cs.princeton.edu/~yuxingh/static/www17-cr.pdf) |
-[Slides](https://www.cs.princeton.edu/~yuxingh/static/www17-slides.pdf) |
+[Paper PDF](static/www17-cr.pdf) |
+[Slides](static/www17-slides.pdf) |
 [Summary](https://research.googleblog.com/2017/04/keeping-fake-listings-off-google-maps.html)
 <br />
 Media: [Fortune](http://fortune.com/2017/04/07/google-scammers-maps/) |
