@@ -67,3 +67,33 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+#### National Academies of Sciences - Research Workshop
+
+Speaker and panelist for the Government-University-Industry Research Roundtable: "Authenticity, Integrity, and Security in a Digital World," where I talked about IoT research at Princeton. February 20, 2019.
+<br />
+[<i class="fas fa-desktop"></i> Slides](https://docs.google.com/presentation/d/1HhdtU6CaQ6X7iWRJU6kxai9PlN60NgpZbjVMwNS-YxA/edit#slide=id.g4e845a4a41_0_23)
+&nbsp;
+[<i class="far fa-calendar-alt"></i> Agenda](https://sites.nationalacademies.org/PGA/guirr/PGA_191387)
+
+
+#### Williams College - Computer Science Colloqium
+
+Speaker. "Tracking Bitcoins in Criminal Operations." October 26, 2018.
+<br />
+[<i class="far fa-file-alt"></i> Abstract](https://events.williams.edu/event/computer-science-colloquium-tracking-bitcoins-in-criminal-operations/)
+
+
+
+#### Stanford Security Seminar
+
+Speaker. "Tracking Bitcoins in Criminal Operations." April 5, 2018.
+<br />
+[<i class="far fa-file-alt"></i> Abstract](https://crypto.stanford.edu/seclab/sem-17-18/huang.html)
+
+
+#### Yale University - Dept of Sociology
+
+Guest lecturuer for SOCY 321: Markets and Society. "How and Why Criminals Use Bitcoin." March 27, 2018.
+<br />
+[<i class="fas fa-desktop"></i> Slides](https://docs.google.com/presentation/d/1KZPybiI9x4CA-MmO_dsOCQXVDZ5VY5D-ReRnQpUglRU/edit#slide=id.g35e71de504_0_0)
