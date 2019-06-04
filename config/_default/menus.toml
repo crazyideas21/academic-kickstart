@@ -17,6 +17,25 @@
   name = "All Publications"
   url = "#publications"
   weight = 45
+  identifier = "pub"
+
+# [[main]]
+#   name = "Smart Home IoT"
+#   url = "#smart-homes-security-privacy-and-economics"
+#   weight = 46
+#   parent = "pub"
+
+# [[main]]
+#   name = "Cryptocurrency"
+#   url = "#cryptocurrencies-and-cybercrime"
+#   weight = 47
+#   parent = "pub"
+
+# [[main]]
+#   name = "Misc"
+#   url = "#fighting-misinformation-in-online-maps"
+#   weight = 48
+#   parent = "pub"
 
 
 [[main]]
