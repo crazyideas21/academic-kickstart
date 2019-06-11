@@ -65,17 +65,19 @@ user_groups:
 - Visitors
 ---
 
+### Research Summary
+
 Emerging technologies like cryptocurrencies and smart home IoTs are gaining popularity, but consumers and regulators are increasingly grappling with new security, privacy, and financial risks that were previously little known or studied.
 
 To this end, I adopt a data-driven approach to empirically quantify these risks at scale, using techniques from multiple disciplines, such as networking, malware analysis, user studies, and economics.
 
 Using this insight, I develop methods and tools that could potentially protect consumers against immediate threats, assist law enforcement agencies to identify any perpetrators, and help regulators make policies to mitigate future problems.
 
-Impact:
+### Impact
 
- - My work on cryptocurrencies was referenced in conversations with law enforcement agencies interested in identifying criminals engaged in human trafficking and ransomware (itself a million-dollar industry as I found).
+ - My work on cryptocurrencies was referenced in conversations with law enforcement agencies interested in identifying criminals engaged in [human trafficking](http://fortune.com/2017/08/25/bitcoin-ai-sex-trafficking/) and [ransomware](https://www.bbc.com/news/technology-40737060) (itself a million-dollar industry as I found).
 
- - In the smart home IoT space, more than 3,000 consumers downloaded my smart home protection tool and scanned at least 30,000 IoT devices within a period of 30 days. In general, my research was featured on popular media outlets such as BBC, TechCrunch, and National Public Radio.
+ - In the smart home IoT space, more than 3,000 consumers downloaded my [smart home protection tool](https://iot-inspector.princeton.edu/) and scanned at least 30,000 IoT devices within a period of 30 days.
 
  - In general, my research was featured on popular media outlets such as [BBC](https://www.bbc.com/news/technology-40737060), [TechCrunch](https://techcrunch.com/2019/04/13/spy-on-your-smart-home-with-this-open-source-research-tool/), and [National Public Radio](http://www.kpbs.org/news/2014/feb/28/why-bitcoin-schemers-have-been-hijacking-personal-/).
 
