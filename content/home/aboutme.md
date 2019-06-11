@@ -72,6 +72,6 @@ I am currently a postdoctoral fellow at Princeton's [Center for Information Tech
 
 I obtained my PhD in Computer Science from University of California, San Diego, where I was advised by [Prof. Alex C. Snoeren](https://cseweb.ucsd.edu/~snoeren/) and [Prof. Kirill Levchenko](https://klevchen.ece.illinois.edu/) (now at UIUC).
 
-I spent two summers at Google's [Security, Privacy, and Abuse team](https://ai.google/research/teams/security-privacy-abuse/), where I was advised by [Dr. Elie Bursztein](https://ai.google/research/people/ElieBursztein).
+I spent two summers at Google's [Security, Privacy, and Abuse Prevention team](https://ai.google/research/teams/security-privacy-abuse/), where I was advised by [Dr. Elie Bursztein](https://ai.google/research/people/ElieBursztein).
 
 I obtained my BA in Computer Science from Williams College, Massachusetts, where I was advised by [Prof. Jeannie Albrecht](https://www.cs.williams.edu/~jeannie/) and where I also directed a series of [Chinese cooking shows](https://www.youtube.com/playlist?list=PLDDCE43C652BC6279) on Williamstown Community Television.
