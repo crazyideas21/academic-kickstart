@@ -133,7 +133,7 @@ Analyzes financial operations of ransomware by developing new techniques to trac
 
 #### Backpage and Bitcoin: Uncovering Human Traffickers
 
-Helps law enforcement narrow down their search for human traffickers by analyzing the Bitcoin blockchain.
+Bitcoin is not completely anonymous. Taking advantage of this property, we describe a method to help law enforcement agencies narrow down their search for human traffickers by analyzing the Bitcoin blockchain.
 
 [Paper PDF](static/kdd17-backpage.pdf) |
 [Summary](https://engineering.nyu.edu/news/follow-bitcoin-find-victims-human-trafficking) |

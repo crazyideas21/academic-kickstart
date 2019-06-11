@@ -106,25 +106,21 @@ Ransomware has caused millions of dollars of damage. For ransomware that demands
 <hr />
 <br />
 
-### Backpage and Bitcoin: Uncovering Human Traffickers
+### Botcoin: Monetizing Stolen Cycles
 
-[Paper PDF](static/kdd17-backpage.pdf) |
-[Summary](https://engineering.nyu.edu/news/follow-bitcoin-find-victims-human-trafficking) |
-[Code](static/backpage_public_code.ipynb)
+[Paper PDF](static/ndss14-cr.pdf) |
+[Slides](static/ndss-14-talk.pptx) |
+[Poster](static/botcoin-poster-csaw-14.png)
 
-Bitcoin is not completely anonymous. Taking advantage of this property, we describe a method to help law enforcement agencies narrow down their search for human traffickers by analyzing the Bitcoin blockchain.
+First academic study on malware that mines cryptocurrencies. We discover 9 botnet operations that monetized their victims' computational power by mining bitcoins and generated at least 4,500 bitcoins between 2012 and 2013. When the profitability of mining bitcoins went down, we observe a trend of malware mining other cryptocurrencies.
 
 **Media**:
-[Reuters](https://www.reuters.com/article/us-usa-trafficking-ads-idUSKCN1AX2RD) |
-[Fortune](http://fortune.com/2017/08/25/bitcoin-ai-sex-trafficking/) |
-[BBC](http://www.bbc.co.uk/programmes/w3cstxkw) |
-[Fast Company](https://www.fastcompany.com/40463805/researchers-say-bitcoin-data-could-help-spot-sex-traffickers) |
-[New Scientist](https://www.newscientist.com/article/2145355-ai-uses-bitcoin-trail-to-find-and-help-sex-trafficking-victims/) |
-[Xinhua](http://news.xinhuanet.com/english/2017-08/20/c_136539698.htm)
+[National Public Radio](http://www.kpbs.org/news/2014/feb/28/why-bitcoin-schemers-have-been-hijacking-personal-/) |
+[Reuters](http://www.reuters.com/article/2014/03/14/bitcoin-criminals-idUSL3N0MA0TZ20140314)
 
-**Authors**: Rebecca S. Portnoff, *Danny Yuxing Huang*, Periwinkle Doerfler, Sadia Afroz, Damon McCoy.
+**Authors**: *Danny Yuxing Huang*, Hitesh Dharmdasani, Sarah Meiklejohn, Vacha Dave, Chris Grier, Damon McCoy, Stefan Savage, Nicholas Weaver, Alex C. Snoeren, Kirill Levchenko.
 
-**Publication**: ACM SIGKDD Conference. Halifax, Nova Scotia. August 2017.
+**Publication**: Network and Distributed System Security Symposium (NDSS). San Diego, CA. February 2014.
 
 
 

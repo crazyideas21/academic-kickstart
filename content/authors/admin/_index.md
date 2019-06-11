@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Research Fellow
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
 - name: Princeton University
-  url: ""
+  url: "https://citp.princeton.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -64,14 +64,18 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a postdoctoral researcher at Princeton's [Department of Computer Science](https://www.cs.princeton.edu/) and [Center for Information Technology Policy](https://citp.princeton.edu/).
 
-I study security and privacy problems of emerging technologies, such as cryptocurrencies and smart-home IoT devices.
+Emerging technologies like cryptocurrencies and smart home IoTs are gaining popularity, but consumers and regulators are increasingly grappling with new security, privacy, and financial risks that were previously little known or studied.
 
-To measure these problems, I develop methods to collect and analyze large datasets from the Internet using techniques from multiple disciplines, such as network analytics, human-computer interaction, and economics.
+To this end, I adopt a data-driven approach to empirically quantify these risks at scale, using techniques from multiple disciplines, such as networking, malware analysis, user studies, and economics.
 
-Impact of my work:
+Using this insight, I develop methods and tools that could potentially protect consumers against immediate threats, assist law enforcement agencies to identify any perpetrators, and help regulators make policies to mitigate future problems.
 
- - Helped law enforcement agencies identify criminals by tracing the flow of cryptocurrencies. See [BBC](https://www.bbc.com/news/technology-40737060), [Reuter](https://www.reuters.com/article/us-usa-trafficking-ads-idUSKCN1AX2RD), [New Scientist](https://www.newscientist.com/article/2145355-ai-uses-bitcoin-trail-to-find-and-help-sex-trafficking-victims/), and [National Public Radio](https://www.kpbs.org/news/2014/feb/28/why-bitcoin-schemers-have-been-hijacking-personal-/).
+Impact:
 
- - Helped 3,000+ consumers discover possible security and privacy issues on 30,000+ smart home devices by releasing an open-source tool, [IoT Inspector](https://iot-inspector.princeton.edu/). See [TechCrunch](https://techcrunch.com/2019/04/13/spy-on-your-smart-home-with-this-open-source-research-tool/) and [Gizmodo](https://gizmodo.com/this-simple-tool-will-reveal-the-secret-life-of-your-sm-1832264323).
+ - My work on cryptocurrencies was referenced in conversations with law enforcement agencies interested in identifying criminals engaged in human trafficking and ransomware (itself a million-dollar industry as I found).
+
+ - In the smart home IoT space, more than 3,000 consumers downloaded my smart home protection tool and scanned at least 30,000 IoT devices within a period of 30 days. In general, my research was featured on popular media outlets such as BBC, TechCrunch, and National Public Radio.
+
+ - In general, my research was featured on popular media outlets such as [BBC](https://www.bbc.com/news/technology-40737060), [TechCrunch](https://techcrunch.com/2019/04/13/spy-on-your-smart-home-with-this-open-source-research-tool/), and [National Public Radio](http://www.kpbs.org/news/2014/feb/28/why-bitcoin-schemers-have-been-hijacking-personal-/).
+
